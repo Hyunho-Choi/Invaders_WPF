@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Asset\block.png" />
+    <None Remove="Asset\bug1.png" />
+    <None Remove="Asset\bug2.png" />
+    <None Remove="Asset\bug3.png" />
+    <None Remove="Asset\bug4.png" />
+    <None Remove="Asset\flyingsaucer1.png" />
+    <None Remove="Asset\flyingsaucer2.png" />
+    <None Remove="Asset\flyingsaucer3.png" />
+    <None Remove="Asset\flyingsaucer4.png" />
+    <None Remove="Asset\player.png" />
+    <None Remove="Asset\satellite1.png" />
+    <None Remove="Asset\satellite2.png" />
+    <None Remove="Asset\satellite3.png" />
+    <None Remove="Asset\satellite4.png" />
+    <None Remove="Asset\spaceship1.png" />
+    <None Remove="Asset\spaceship2.png" />
+    <None Remove="Asset\spaceship3.png" />
+    <None Remove="Asset\spaceship4.png" />
+    <None Remove="Asset\star1.png" />
+    <None Remove="Asset\star2.png" />
+    <None Remove="Asset\star3.png" />
+    <None Remove="Asset\star4.png" />
+    <None Remove="Asset\watchit1.png" />
+    <None Remove="Asset\watchit2.png" />
+    <None Remove="Asset\watchit3.png" />
+    <None Remove="Asset\watchit4.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Asset\block.png" />
+    <Resource Include="Asset\bug1.png" />
+    <Resource Include="Asset\bug2.png" />
+    <Resource Include="Asset\bug3.png" />
+    <Resource Include="Asset\bug4.png" />
+    <Resource Include="Asset\flyingsaucer1.png" />
+    <Resource Include="Asset\flyingsaucer2.png" />
+    <Resource Include="Asset\flyingsaucer3.png" />
+    <Resource Include="Asset\flyingsaucer4.png" />
+    <Resource Include="Asset\player.png" />
+    <Resource Include="Asset\satellite1.png" />
+    <Resource Include="Asset\satellite2.png" />
+    <Resource Include="Asset\satellite3.png" />
+    <Resource Include="Asset\satellite4.png" />
+    <Resource Include="Asset\spaceship1.png" />
+    <Resource Include="Asset\spaceship2.png" />
+    <Resource Include="Asset\spaceship3.png" />
+    <Resource Include="Asset\spaceship4.png" />
+    <Resource Include="Asset\star1.png" />
+    <Resource Include="Asset\star2.png" />
+    <Resource Include="Asset\star3.png" />
+    <Resource Include="Asset\star4.png" />
+    <Resource Include="Asset\watchit1.png" />
+    <Resource Include="Asset\watchit2.png" />
+    <Resource Include="Asset\watchit3.png" />
+    <Resource Include="Asset\watchit4.png" />
+  </ItemGroup>
+
+</Project>
